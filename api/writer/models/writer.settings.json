@@ -21,9 +21,9 @@
       "plugin": "upload",
       "required": false
     },
-    "articles": {
+    "posts": {
       "via": "author",
-      "collection": "article"
+      "collection": "post"
     },
     "email": {
       "type": "string"

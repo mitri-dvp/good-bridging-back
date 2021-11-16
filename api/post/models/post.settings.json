@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "articles",
+  "collectionName": "posts",
   "info": {
-    "name": "article",
+    "name": "post",
     "description": ""
   },
   "options": {
@@ -31,7 +31,7 @@
     },
     "category": {
       "model": "category",
-      "via": "articles"
+      "via": "posts"
     },
     "image": {
       "model": "file",
@@ -46,7 +46,7 @@
       "pluginOptions": {}
     },
     "author": {
-      "via": "articles",
+      "via": "posts",
       "model": "writer"
     }
   }
