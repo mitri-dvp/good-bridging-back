@@ -1,0 +1,26 @@
+.sc-fIosxK > div {
+  margin: auto;
+  width: 50px;
+  height: 50px;
+  border: 6px solid #f3f3f3;
+      border-top-color: rgb(243, 243, 243);
+      border-top-style: solid;
+      border-top-width: 6px;
+  border-top: 6px solid #fa538b!important;
+  border-radius: 50%;
+  -webkit-animation: cilQsd 2s linear infinite;
+  animation: cilQsd 2s linear infinite;
+}
+
+.sc-fSDTwv {
+  border-top: 1px solid #007eff!important;
+}
+
+/* .sc-dkPtRN {
+  background-color: #fa538b!important;
+  border: 1px solid #fa538b!important;
+}
+
+.sc-ksdxgE {
+  border: 1px solid #fa538b;
+} */
